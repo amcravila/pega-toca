@@ -84,7 +84,7 @@ const Home  = () => {
 const About  = () => {
   return (
     <div className="about-menu">
-      <p>Somos um projeto que integra com a API PegaToca, onde é possível buscar as músicas de seu artista favorito.</p>
+      <p>Somos um projeto que integra com a API PedeToca, onde é possível buscar as músicas de seu artista favorito.</p>
     </div>
   )
 }
