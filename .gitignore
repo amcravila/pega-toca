@@ -2,13 +2,13 @@
 
 # dependencies
 /node_modules
-/.firebase
 
 # testing
 /coverage
 
 # production
 /build
+/.firebase
 
 # misc
 .DS_Store
